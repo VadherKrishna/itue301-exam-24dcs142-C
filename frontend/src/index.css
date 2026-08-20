@@ -1,0 +1,11 @@
+.status-confirmed { color: green; font-weight: bold; }
+.status-pending { color: orange; font-weight: bold; }
+.status-cancelled { color: red; font-weight: bold; }
+
+.appointment-card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  border-radius: 8px;
+  max-width: 300px;
+  margin-top: 10px;
+}
